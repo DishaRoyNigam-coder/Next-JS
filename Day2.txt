@@ -1,0 +1,4 @@
+next dev      - starts the development server.
+next build     build the applicaton for production 
+next start     Starts the production server 
+next lint       Runs ESlint

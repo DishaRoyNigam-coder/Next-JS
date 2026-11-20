@@ -1,0 +1,5 @@
+Next.js is a React Framework for building full-strack web application by Vercel and first released as an open-source project on GitHub in 2016 .
+So it means you can write any React code inside Next.js .
+Next.js gives you everything that React doest'n provide out of the box - like routing , server-side rendering ,static site Generation , 
+API routes, and even full backend logic - all in one powerfull framework . 
+React gives you the frontend ,but Next.js gives you the complete strcture build production-ready apps .
