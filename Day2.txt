@@ -2,3 +2,7 @@ next dev      - starts the development server.
 next build     build the applicaton for production 
 next start     Starts the production server 
 next lint       Runs ESlint
+
+<-------------Day-3------------->
+In Next.js App Routes , the layout.js file is a special file used to wrap pages and componens with a shared structure
+ - such as headers ,footers , or navigation bars . It plays a critical role in creating layouts across different routes of your app.
